@@ -5,11 +5,11 @@ Game Devices for Linux and Android
 # Download Links
 ## Boot From the TF Card
 ### U8
-Download [Google Drive](https://drive.google.com/file/d/1amHjZsZt9sRZBWxTh3Rt67IJukMmEeAA/view?usp=sharing)  (Updated (03/10/2025)
+Download [Google Drive](https://drive.google.com/file/d/1LzlFd-Cmi-Np9T5mFhqfNrtQ_5dHhuS6/view?usp=sharing)  (Updated 04/21/2025)
 
 ## Boot From the Flash
 ### U8
-Download [Google Drive]() (Update 03/10/2025)
+Download [Google Drive](https://drive.google.com/file/d/1e8BTjb7yMQw715W5JEtKGlIfQpQfGltw/view?usp=sharing)  (Updated 04/21/2025)
 
 
 # [ArkOS System]
